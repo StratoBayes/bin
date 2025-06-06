@@ -1,5 +1,5 @@
 Package: StratoBayes
-Version: 0.1.1
+Version: 0.1.2
 Depends: R (>= 4.1.0),
 Imports: abind, base64enc, cli (>= 3.1.0), cluster, coda, collapse,
         dbscan, doParallel, EnvStats, fastmatch, fda, foreach, ks,
