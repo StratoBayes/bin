@@ -1,5 +1,5 @@
 Package: StratoBayes
-Version: 0.1.4
+Version: 0.1.5
 Depends: R (>= 4.1.0),
 Imports: abind, base64enc, cli (>= 3.1.0), cluster, coda, collapse,
         dbscan, doParallel, EnvStats, fastmatch, fda, foreach, ks,
@@ -9,4 +9,4 @@ LinkingTo: Rcpp, RcppEigen (>= 0.3.3.9.1)
 Suggests: gridExtra, knitr, Matrix, rmarkdown, quarto, testthat (>=
         3.0), vdiffr,
 License: file LICENSE
-MD5sum: 7104288d925276b800632304eab108cf
+MD5sum: 0db44669b0508309fcce01c65f6f4063
