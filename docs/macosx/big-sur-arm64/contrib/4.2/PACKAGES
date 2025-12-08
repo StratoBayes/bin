@@ -1,12 +1,13 @@
 Package: StratoBayes
-Version: 0.1.5
+Version: 0.1.7
 Depends: R (>= 4.1.0),
 Imports: abind, base64enc, cli (>= 3.1.0), cluster, coda, collapse,
         dbscan, doParallel, EnvStats, fastmatch, fda, foreach, ks,
         MASS, mcmcse, msm, mvnfast (>= 0.2.7), protoclust, R.cache,
-        Rcpp (>= 1.0.8), Rdpack (>= 2.3), Rfast, splines, stats,
+        Rcpp (>= 1.0.8), Rdpack (>= 2.3), Rfast, shiny, shinyjs,
+        splines, stats,
 LinkingTo: Rcpp, RcppEigen (>= 0.3.3.9.1)
-Suggests: gridExtra, knitr, Matrix, rmarkdown, quarto, testthat (>=
-        3.0), vdiffr,
+Suggests: gridExtra, knitr, Matrix, shinytest2, rmarkdown, quarto,
+        testthat (>= 3.0), vdiffr,
 License: file LICENSE
-MD5sum: 55ff2c412c2f676d58a4960f031572a7
+MD5sum: 42929522cf70a3e8a54224c759e83f54
