@@ -11,3 +11,11 @@ Suggests: gridExtra, knitr, Matrix, shinytest2, rmarkdown, quarto,
         testthat (>= 3.0), vdiffr,
 License: file LICENSE
 Archs: x64
+
+Package: StratoSegment
+Version: 0.1.1
+Imports: stats, graphics, grDevices, Rcpp
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
+License: GPL-3
+Archs: x64
