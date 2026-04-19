@@ -13,9 +13,9 @@ License: file LICENSE
 MD5sum: 78eb515306eda46819e1045c31a34895
 
 Package: StratoSegment
-Version: 0.1.1
+Version: 0.1.2
 Imports: stats, graphics, grDevices, Rcpp
 LinkingTo: Rcpp
 Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
 License: GPL-3
-MD5sum: 2b0cc73cef37a05841c555937d97d472
+MD5sum: 77f74ca401af148733e85555c8fe654f
