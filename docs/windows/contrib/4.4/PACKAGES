@@ -13,9 +13,10 @@ License: file LICENSE
 Archs: x64
 
 Package: StratoSegment
-Version: 0.1.2
-Imports: stats, graphics, grDevices, Rcpp
+Version: 0.1.3
+Depends: R (>= 4.1.0),
+Imports: stats, graphics, Rcpp (>= 1.0.8)
 LinkingTo: Rcpp
 Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
-License: GPL-3
+License: file LICENSE
 Archs: x64
