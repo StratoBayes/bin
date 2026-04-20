@@ -11,3 +11,12 @@ Suggests: gridExtra, knitr, Matrix, shinytest2, rmarkdown, quarto,
         testthat (>= 3.0), vdiffr,
 License: file LICENSE
 MD5sum: 99ec205da086b4a7dcdaa67ae87f32d9
+
+Package: StratoSegment
+Version: 0.1.3
+Depends: R (>= 4.1.0),
+Imports: stats, graphics, Rcpp (>= 1.0.8)
+LinkingTo: Rcpp
+Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
+License: file LICENSE
+MD5sum: ea1d32f9928731072a5cdb4dd3fa7662
