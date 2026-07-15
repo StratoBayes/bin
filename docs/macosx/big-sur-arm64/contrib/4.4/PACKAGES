@@ -1,18 +1,18 @@
 Package: StratoBayes
-Version: 0.2.3
+Version: 0.2.4
 Depends: R (>= 4.1.0),
 Imports: abind, base64enc, cli (>= 3.1.0), cluster, dbscan, fastmatch,
-        protoclust, R.cache, Rcpp (>= 1.0.8), Rdpack (>= 2.3), splines,
-        stats, StratoSegment (>= 0.1.3)
+        protoclust, Rcpp (>= 1.0.8), Rdpack (>= 2.3), splines, stats,
+        StratoSegment (>= 0.1.3)
 LinkingTo: Rcpp
 Suggests: bslib, coda, MASS, mcmcse, future (>= 1.22.0), future.apply,
         gridExtra, knitr, ks, Matrix, shinytest2, RhpcBLASctl,
         rmarkdown, SDAR, shiny, shinyjs, quarto, testthat (>= 3.0),
-        vdiffr,
+        vdiffr, withr,
 License: file LICENSE
-MD5sum: 991b78778ab150b46d41314165e1da4a
-Built: R 4.4.0; aarch64-apple-darwin20; 2026-06-15 15:41:52 UTC; unix
-File: StratoBayes_0.2.3.tgz
+MD5sum: 602ee4fed8b8b41df58926cbcb0763ad
+Built: R 4.4.0; aarch64-apple-darwin20; 2026-07-15 21:27:01 UTC; unix
+File: StratoBayes_0.2.4.tgz
 
 Package: StratoSegment
 Version: 0.1.3
