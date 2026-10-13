@@ -1,5 +1,5 @@
 Package: StratoBayes
-Version: 0.4.1
+Version: 0.4.2
 Depends: R (>= 4.1.0),
 Imports: abind, base64enc, cli (>= 3.1.0), cluster, dbscan, jsonlite,
         protoclust, Rcpp (>= 1.0.8), Rdpack (>= 2.3), splines, stats,
@@ -11,8 +11,8 @@ Suggests: bslib, coda, data.table, MASS, mcmcse, future (>= 1.22.0),
         (>= 3.0), tibble, vdiffr, withr,
 License: file LICENSE
 Archs: x64
-Built: R 4.4.0; x86_64-w64-mingw32; 2026-10-02 08:11:07 UTC; windows
-File: StratoBayes_0.4.1.zip
+Built: R 4.4.0; x86_64-w64-mingw32; 2026-10-13 07:46:33 UTC; windows
+File: StratoBayes_0.4.2.zip
 
 Package: StratoSegment
 Version: 0.1.3
